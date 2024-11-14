@@ -10,15 +10,7 @@ Rational Rose Software and to implement the software in Java.
 • Effective for Administration Purpose  
 • Cost effective  
 • Better Services 
-```
 
-
-
-
-
-
-
-```
 ## Use case Diagrams
 
 A use case is a methodology used in system analysis to identify, clarify, and 
@@ -27,7 +19,7 @@ of interactions between systems and users in a particular environment and relate
 particular goal. It is represented using ellipse. Actor is any external entity that makes 
 use of the system being modeled.
 
-![WhatsApp Image 2024-11-14 at 13 50 08_465f9738](https://github.com/user-attachments/assets/4c9ed345-dd3a-466f-b3f2-4454a9f2b22f)
+![image](https://github.com/user-attachments/assets/0e325ec6-aa07-469a-8e98-e4d97f196948)
 
 
 ## Activity Diagram
@@ -38,7 +30,7 @@ triggered by the completion of operation. The purpose is to provide view of clos
 what is going on inside a use case or among several classes. An activity is shown as 
 rounded box containing the name of operation.
 
-![Screenshot 2024-11-14 132857](https://github.com/user-attachments/assets/b6ac174d-53aa-46bd-ba50-d913c3b3245a)
+![image](https://github.com/user-attachments/assets/5d6fcf28-0b52-4ad3-94dc-1d04b5304edf)
 
 ## Sequence Diagram:
 
@@ -46,7 +38,7 @@ A sequence diagram in Unified Modeling Language (UML) is a kind of
 interaction diagram that shows how processes operate with one another and in what 
 order. 
 
-![Screenshot 2024-11-14 132844](https://github.com/user-attachments/assets/501674d0-4254-4820-ae0b-2d17286bc718)
+![image](https://github.com/user-attachments/assets/7a267cee-dccb-44d1-b241-346fdcc0d974)
 
 
 ## Class diagram:
@@ -55,7 +47,7 @@ A class is drawn as rectangle box with three compartments or components
 separated by horizontal lines. The top compartment holds the class name and middle 
 compartment holds the attribute and bottom compartment holds list of operations.
 
-![Screenshot 2024-11-14 132740](https://github.com/user-attachments/assets/a2e31d4c-a6da-489b-8ec7-8b973166e7ff)
+![image](https://github.com/user-attachments/assets/739d52a7-db96-4ddc-aa00-f55ec004bb46)
 
 
 ## Collaboration diagram:
@@ -68,7 +60,7 @@ collaboration diagram into a sequence diagram and the vice versa. A collaboratio
 diagram resembles a flowchart that portrays the roles, functionality and behavior of 
 individual objects as well as the overall operation of the system in real time. 
 
-![Screenshot 2024-11-14 132832](https://github.com/user-attachments/assets/674c91de-d26d-4ac0-abd4-20e30300b717)
+![image](https://github.com/user-attachments/assets/76440923-4675-4931-a486-3685f7b93fd6)
 
 ## Result:
 Thus, the Student information system project was executed and the output  
