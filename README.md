@@ -41,7 +41,18 @@
 
 ![Screenshot 2024-11-14 132844](https://github.com/user-attachments/assets/501674d0-4254-4820-ae0b-2d17286bc718)
 
+~~~
 
+
+
+
+
+
+
+
+
+
+~~~
 # Class diagram:
 
 
